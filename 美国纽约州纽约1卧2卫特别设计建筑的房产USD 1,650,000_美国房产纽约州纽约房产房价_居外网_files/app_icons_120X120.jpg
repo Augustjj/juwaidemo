@@ -1,0 +1,1804 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans-CN">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="csrf-token" content="OpaKLfz11eCzXkgz4rs9mnlTPpfjoozvTYMlvHqw">
+
+        <title>抱歉！您访问的页面不存在_居外海外房产网</title>
+<meta name="keywords" content="" />
+<meta name="description" content="作为最大型的中文国际房产搜索引擎,居外网以一站式平台为全球华人提供50多个国家逾百万条环球房源,其中包括投资房产、移民房产、留学房产、美国 EB-5 投资移民项目等" />
+
+                    <link rel="stylesheet" href="http://www.juwaistatic.com/ui.juwai.io/assets/juwai-ui.min.css?v=1501578584">
+            <link rel="stylesheet" href="http://www.juwaistatic.com/juwai-com-v2/assets/css/juwai-com-v2.min.css?6f376d1cff">
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+                <!--[if lt IE 9]>
+            <script src="http://www.juwaistatic.com/juwai-com-v2/assets/js/ie.js?c91c855cd2"></script>
+            <link rel="stylesheet" href="http://www.juwaistatic.com/juwai-com-v2/assets/css/ie.min.css?c91c855cd2">
+        <![endif]-->
+
+                    <script src="http://www.juwaistatic.com/frontend-libraries/bugsnag/2.5.0/bugsnag.min.js?v=20170515"
+                data-apikey="786425c9cebab3a2bdbbded2e252daca"
+                data-releasestage="production"
+            ></script>
+        
+        <script src="http://www.juwaistatic.com/juwai-com-v2/assets/js/libraries.js?7e1ad7719f"></script>
+
+        
+            
+    <script type="text/javascript">
+        /**
+         * If we want to have placeholder for some specific images.
+         * Please apply class `js-img-placeholder` in the `img` tag.
+         * Also you need define placeholder size detial in 'data-size` attribute.
+         * e.g. `data-placeholder-size="240px×160px"` or `data-placeholder-size="100%×100%"`.
+         *
+         * Image onerror function.
+         * @todo  Delete this function, use CSS to handle broken images.
+         * @todo  Move this function out of the global scope.
+         * @todo  Avoid replacing DOM if possible (update src or add background color to ancestor instead).
+         * @param  {Object} imgObj
+         */
+        function imgError( imgObj ) {
+            'use strict';
+
+            var $this = $( imgObj );
+            var imgSize = $this.data( 'placeholder-size' ).split( '×' );
+            var modifier = 'logo-text';
+            var $imagePlaceholder = $( '<div/>', {
+                'class': 'o-placeholder'
+            } );
+            var width = parseInt( imgSize[ 0 ] );
+
+            // Some images need to support percentage size.
+            // We need to get parent width. For now slider images use percentsize.
+            if ( imgSize[ 0 ].indexOf( '%' ) !== -1 ) {
+                width = $this.parent().width() * ( width / 100 );
+            }
+
+            // If image's width < 100, only show logo as background img.
+            // Otherwise show logo with juwai text.
+            if ( width < 100 ) {
+                modifier = 'logo';
+            }
+
+            $imagePlaceholder.addClass( 'o-placeholder--' + modifier )
+                .css( { 'width': imgSize[ 0 ], 'height': imgSize[ 1 ] } );
+            $this.replaceWith( $imagePlaceholder );
+        }
+    </script>
+    <script src="http://www.juwaistatic.com/ui.juwai.io/assets/style-broken-image.min.js?v=1500952303"></script>
+
+                
+                
+
+    
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5PSZVF');</script>
+    <!-- End Google Tag Manager -->
+    <script type="text/javascript">
+    // Variable name must same as GTM
+    var VisitorIP = '199.188.65.50';
+    var VisitTime = '2017-08-23 20:00:15';
+    var juid = '';
+    var uniqueId = '9762981';
+
+        </script>
+    </head>
+    <body class="origin"
+        id="juwai-com"
+    >
+            
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5PSZVF"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+        <div class="c-header" id="js-header">
+    <div class="container">
+        <div class="row clearfix">
+            <div class="col-xs-12">
+                <div class="c-header__logo">
+                    <a href="/">
+                        <img class="c-header__img" alt="juwai" src="http://www.juwaistatic.com/juwai-com-v2/assets/img/branding/logo-juwai.png">
+                    </a>
+                </div><!--
+             --><div class="c-header__search">
+                    <form class="c-header__form js-search" method="GET">
+                        <div class="c-header__expandable c-header__expandable--search">
+                            <div class="c-header__selected-search">
+                                <span class="c-header__text--s js-search__selected-type">
+                                    房源
+                                </span>
+                                <i class="fa fa-caret-down"></i>
+                                <i class="fa fa-caret-up"></i>
+                            </div>
+                            <ul class="o-list--no-bullet c-header__list c-header__list--search js-search-type-options">
+                                <li class="is-hidden c-header__item
+                                    js-search-type-option"
+                                    data-action
+                                    data-value="listings"
+                                    data-placeholder="输入国家 / 州 / 省 / 城市 / 编号"
+                                >
+                                    房源
+                                </li>
+                                <li class="1 c-header__item
+                                    js-search-type-option"
+                                    data-action
+                                    data-value="articles"
+                                    data-placeholder="请输入文章关键字"
+                                >
+                                    资讯
+                                </li>
+                            </ul>
+                            <input class="js-search-type" id="search-type" name="search-type" type="hidden"
+                                value="listings">
+                        </div><!--
+                     --><input class="c-header__input js-search__input-text"
+                            id="search-input-box"
+                            name="search-input-box"
+                            autocomplete="off"
+                            type="text"
+                            placeholder="输入国家 / 州 / 省 / 城市 / 编号"
+                            value=""
+                        ><!--
+                     --><button class="c-header__button" type="submit">
+                            <i class="fa fa-search fa-lg"></i>
+                        </button>
+                        <div class="c-header__search-dropdown js-header__search-dropdown"
+                            id="search-drop-down"
+                        >
+                        </div>
+                    </form>
+                </div>
+
+                <div class="c-header__ad c-tooltip c-header__separator">
+                    <a class="_c-header__link--right" href="http://list.juwai.com/" rel="nofollow">
+                        LIST ON JUWAI
+                    </a>
+                    <span class="c-tooltip__item c-tooltip__item--right-top">
+                        <i class="o-arrow o-arrow--bottom-left"></i>
+                        AD
+                    </span>
+                </div>
+                <div class="c-header__currency c-header__separator">
+
+                                        <div class="c-header__expandable c-header__expandable--fancy c-header__expandable--currency">
+                        货币单位：
+                        CNY
+                        <i class="fa fa-caret-down"></i>
+                        <i class="fa fa-caret-up"></i>
+
+                        <ul class="o-list--no-bullet c-header__list c-header__list--currency js-currency__selector">
+                                                            <li>
+                                    <a class="c-header__link" data-txt="CNY" data-action>
+                                        人民币(CNY)
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a class="c-header__link" data-txt="USD" data-action>
+                                        美元(USD)
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a class="c-header__link" data-txt="AUD" data-action>
+                                        澳元(AUD)
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a class="c-header__link" data-txt="GBP" data-action>
+                                        英镑(GBP)
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a class="c-header__link" data-txt="CAD" data-action>
+                                        加元(CAD)
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a class="c-header__link" data-txt="SGD" data-action>
+                                        新元(SGD)
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a class="c-header__link" data-txt="TWD" data-action>
+                                        新台币(TWD)
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a class="c-header__link" data-txt="JPY" data-action>
+                                        日圆(JPY)
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a class="c-header__link" data-txt="EUR" data-action>
+                                        欧元(EUR)
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a class="c-header__link" data-txt="NZD" data-action>
+                                        纽西兰元(NZD)
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a class="c-header__link" data-txt="THB" data-action>
+                                        泰铢(THB)
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a class="c-header__link" data-txt="MYR" data-action>
+                                        马来西亚零吉(MYR)
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a class="c-header__link" data-txt="HKD" data-action>
+                                        港元(HKD)
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a class="c-header__link" data-txt="MOP" data-action>
+                                        澳门元(MOP)
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+                <div class="c-header__contact">
+
+                                        <div class="c-header__expandable c-header__expandable--fancy c-header__expandable--contact">
+                        <p class="c-header__text c-header__telephone">
+                                                            <span class="u-col u-at-middle c-header__text--xl c-header__text--red">
+                                    +86 400 041 7515
+                                </span>
+                                                        <span class="is-oversea is-hidden">
+                                <a class="u-col u-at-middle c-header__text--xl c-header__text--red">
+                                    +86 400 041 7515
+                                </a>
+                            </span>
+                            <i class="u-col u-at-middle c-header__text--red fa fa-caret-down"></i>
+                            <i class="u-col u-at-middle c-header__text--red fa fa-caret-up"></i>
+                        </p>
+                        <p class="c-header__text c-header__text--agency">
+                            海外经销商：<!--
+                         --><span class="c-header__text--red">+852 2850 5083</span>
+                        </p>
+                        <p class="c-header__text">周一至周日：9:00 - 21:00</p>
+                    </div>
+                </div>
+
+                <div class="c-header__hot-keywords">
+                                            <a class="c-header__hot-keyword is-highlighted"
+                            href="http://www.juwai.com/news/special-column/"
+                            target="_blank"
+                        >
+                            投资名家专栏
+                        </a>
+                                            <a class="c-header__hot-keyword "
+                            href="http://www.juwai.com/AUproperty/r-4_c-3459"
+                            target="_blank"
+                        >
+                            悉尼
+                        </a>
+                                            <a class="c-header__hot-keyword is-highlighted"
+                            href="http://www.juwai.com/globalsearch/%E6%8A%95%E8%B5%84%E7%A7%BB%E6%B0%91"
+                            target="_blank"
+                        >
+                            投资移民
+                        </a>
+                                            <a class="c-header__hot-keyword "
+                            href="http://www.juwai.com/JPproperty"
+                            target="_blank"
+                        >
+                            日本
+                        </a>
+                                            <a class="c-header__hot-keyword is-highlighted"
+                            href="http://www.juwai.com/globalsearch/roofstock"
+                            target="_blank"
+                        >
+                            美国投资房产
+                        </a>
+                                            <a class="c-header__hot-keyword is-highlighted"
+                            href="http://www.juwai.com/THproperty/r-5429_c-5558/"
+                            target="_blank"
+                        >
+                            曼谷
+                        </a>
+                                            <a class="c-header__hot-keyword "
+                            href="http://www.juwai.com/CAproperty/r-43_c-3491"
+                            target="_blank"
+                        >
+                            温哥华
+                        </a>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+        <div class="c-navigation container-fluid" id="nav-main-menu">
+    <div class="container c-navigation__container">
+        <ul class="c-navigation__main"><!--
+                                             --><li class="c-navigation__item">
+                        <a class="c-navigation__link c-navigation__link--big
+                            
+                            "
+
+                                                            href="http://www.juwai.com"
+                                                    >
+                            居外首页
+                        </a>
+                    </li><!--
+                                                             --><li class="c-navigation__item">
+                        <a class="c-navigation__link c-navigation__link--big
+                            
+                            "
+
+                                                            href="http://www.juwai.com/projects/"
+                                                    >
+                            环球新盘
+                        </a>
+                    </li><!--
+                                                             --><li class="c-navigation__item">
+                        <a class="c-navigation__link c-navigation__link--big
+                            
+                            "
+
+                                                            href="http://www.juwai.com/luxe/"
+                                                    >
+                            顶级豪宅
+                        </a>
+                    </li><!--
+                                                             --><li class="c-navigation__item">
+                        <div class="c-navigation__expandable c-navigation__expandable--table-view">
+                            <a class="c-navigation__link c-navigation__link--big c-navigation__link--expandable
+                                "
+                                title="置业资讯"
+                            >
+                                置业资讯
+                                <i class="fa fa-angle-down"></i>
+                                <i class="fa fa-angle-up"></i>
+                            </a>
+                            <div class="c-navigation__folded">
+                                                                    <div class="c-navigation__row">
+                                        <a
+                                            href="http://www.juwai.com/news/articles/"
+                                        >
+                                            房闻速递
+                                        </a>
+                                    </div>
+                                                                    <div class="c-navigation__row">
+                                        <a
+                                            href="http://www.juwai.com/news/finance-news/"
+                                        >
+                                            投资指南
+                                        </a>
+                                    </div>
+                                                                    <div class="c-navigation__row">
+                                        <a
+                                            href="http://www.juwai.com/news/education/"
+                                        >
+                                            留学指南
+                                        </a>
+                                    </div>
+                                                                    <div class="c-navigation__row">
+                                        <a
+                                            href="http://www.juwai.com/news/immigration/"
+                                        >
+                                            移民指南
+                                        </a>
+                                    </div>
+                                                                    <div class="c-navigation__row">
+                                        <a
+                                            href="http://www.juwai.com/news/special-column/"
+                                        >
+                                            名家专栏
+                                        </a>
+                                    </div>
+                                                                    <div class="c-navigation__row">
+                                        <a
+                                            href="http://www.juwai.com/news/special/"
+                                        >
+                                            居外专题
+                                        </a>
+                                    </div>
+                                                                    <div class="c-navigation__row">
+                                        <a
+                                            href="http://www.juwai.com/news/infographic/"
+                                        >
+                                            居外连环话
+                                        </a>
+                                    </div>
+                                                                    <div class="c-navigation__row">
+                                        <a
+                                            href="http://www.juwai.com/news/advertorials/"
+                                        >
+                                            物业特写
+                                        </a>
+                                    </div>
+                                                                    <div class="c-navigation__row">
+                                        <a
+                                            href="http://www.juwai.com/news/share/"
+                                        >
+                                            买房故事
+                                        </a>
+                                    </div>
+                                                                    <div class="c-navigation__row">
+                                        <a
+                                            href="http://www.juwai.com/news/celebrity/"
+                                        >
+                                            星级生活
+                                        </a>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </li><!--
+                                 --></ul>
+        <div class="c-navigation__right">
+            <i class="c-navigation__icon--user fa fa-user"></i>
+
+                            <a class="c-navigation__link" href="http://www.juwai.com/register/" rel="nofollow">
+                    注册
+                </a>
+                <a class="c-navigation__link c-navigation__link--login c-navigation__separator"
+                    href="http://www.juwai.com/login/" rel="nofollow"
+                >
+                    登录
+                </a><!--
+            
+         --><div class="c-navigation__expandable c-navigation__expandable--mobile c-navigation__separator
+                c-navigation__separator--mobile"
+            ><!--
+             --><a class="c-navigation__link c-navigation__link--expandable c-navigation__link--mobile"
+                    href="/app/" rel="nofollow"
+                >
+                    <i class="c-navigation__icon--mobile fa fa-mobile"></i>
+                    <i class="fa fa-caret-down"></i>
+                    <i class="fa fa-caret-up"></i>
+                </a>
+                <div class="c-navigation__folded c-navigation__folded--mobile">
+                    <img src="http://www.juwaistatic.com/juwai-com-v2/assets/img/header/app_icons_120X120.jpg" alt="m.juwai.com">
+                    <p>iPhone扫一扫</p>
+                    <p>免费下载居外App</p>
+                </div>
+            </div>
+        </div>
+            </div>
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                            </div>
+        </div>
+    </div>
+
+
+        
+<div class="o-layout--2-cols container u-margins--vertical-30">
+    <div class="o-col-aside u-col u-at-top">
+        <div class="o-error__image-container">
+            <img src="http://www.juwaistatic.com/juwai-com-v2/assets/img/utility/404.jpg" alt="">
+        </div>
+    </div><!--
+
+ --><div class="o-col-main u-col u-at-top">
+        <div class="o-error__message">很抱歉，您要访问页面已不存在。</div>
+        <a class="o-error__home" href="http://www.juwai.com/">返回居外首页</a>
+        <div class="o-error__recommends-container">
+            <span class="o-error__recommends-title">居外为您推荐以下几套精选房源</span>
+            <div class="o-error__listing-container u-clearfix">
+                                <div class="o-error__listing">
+                    <a href="http://www.juwai.com/32294583.htm">
+                        <img class="o-img--120x80" data-src="http://simages0.juwai.com/auto/120x80/store-aa/9a67f3b7ab612db50027155f23834fcb.jpg" alt="" data-placeholder-size="120px×80px" onerror="imgError(this)">
+
+                        <div class="o-error__listing-title">
+                            毛里求斯, Rivi&egrave;re Noire
+                        </div>
+                        <div class="o-error__listing-price">
+                            约人民币4,313万起
+                        </div>
+                        <div class="o-error__listing-link">
+                            查看详情 &gt;&gt;
+                        </div>
+                    </a>
+                </div>
+                                <div class="o-error__listing">
+                    <a href="http://www.juwai.com/33650444.htm">
+                        <img class="o-img--120x80" data-src="http://simages4.juwai.com/auto/120x80/store-aa/a2e8270535c8a92afd4111b2eaf9e1e9.jpg" alt="" data-placeholder-size="120px×80px" onerror="imgError(this)">
+
+                        <div class="o-error__listing-title">
+                            澳大利亚, 南澳大利亚
+                        </div>
+                        <div class="o-error__listing-price">
+                            约人民币1,744万起
+                        </div>
+                        <div class="o-error__listing-link">
+                            查看详情 &gt;&gt;
+                        </div>
+                    </a>
+                </div>
+                                <div class="o-error__listing">
+                    <a href="http://www.juwai.com/33345314.htm">
+                        <img class="o-img--120x80" data-src="http://simages6.juwai.com/auto/120x80/store-aa/693f67f451054bfb073c864ea0e64828.jpg" alt="" data-placeholder-size="120px×80px" onerror="imgError(this)">
+
+                        <div class="o-error__listing-title">
+                            德国, 柏林
+                        </div>
+                        <div class="o-error__listing-price">
+                            约人民币1.01亿起
+                        </div>
+                        <div class="o-error__listing-link">
+                            查看详情 &gt;&gt;
+                        </div>
+                    </a>
+                </div>
+                                <div class="o-error__listing">
+                    <a href="http://www.juwai.com/33358312.htm">
+                        <img class="o-img--120x80" data-src="http://simages3.juwai.com/auto/120x80/store-x/c67aebd7b5ed9f88c0cc614021e0cb17-f8cc3276c2ce99f1d08e9016abb34717.jpg" alt="" data-placeholder-size="120px×80px" onerror="imgError(this)">
+
+                        <div class="o-error__listing-title">
+                            美国, 佛罗里达州
+                        </div>
+                        <div class="o-error__listing-price">
+                            约人民币833万起
+                        </div>
+                        <div class="o-error__listing-link">
+                            查看详情 &gt;&gt;
+                        </div>
+                    </a>
+                </div>
+                                <div class="o-error__listing">
+                    <a href="http://www.juwai.com/33049833.htm">
+                        <img class="o-img--120x80" data-src="http://simages1.juwai.com/auto/120x80/store-aa/84386552dbcc11851aec269379e7330a.png" alt="" data-placeholder-size="120px×80px" onerror="imgError(this)">
+
+                        <div class="o-error__listing-title">
+                            澳大利亚, 维多利亚州
+                        </div>
+                        <div class="o-error__listing-price">
+                            约人民币161万起
+                        </div>
+                        <div class="o-error__listing-link">
+                            查看详情 &gt;&gt;
+                        </div>
+                    </a>
+                </div>
+                                <div class="o-error__listing">
+                    <a href="http://www.juwai.com/15469735.htm">
+                        <img class="o-img--120x80" data-src="http://simages7.juwai.com/auto/120x80/store-aa/1092cec29e44e4a480f239a030b96f4d.jpg" alt="" data-placeholder-size="120px×80px" onerror="imgError(this)">
+
+                        <div class="o-error__listing-title">
+                            泰国, 清迈府
+                        </div>
+                        <div class="o-error__listing-price">
+                            约人民币113万起
+                        </div>
+                        <div class="o-error__listing-link">
+                            查看详情 &gt;&gt;
+                        </div>
+                    </a>
+                </div>
+                                <div class="o-error__listing">
+                    <a href="http://www.juwai.com/31116029.htm">
+                        <img class="o-img--120x80" data-src="http://simages0.juwai.com/auto/120x80/store-aa/f2dd4b636ce581ecc522fd6a6bae9b9b.png" alt="" data-placeholder-size="120px×80px" onerror="imgError(this)">
+
+                        <div class="o-error__listing-title">
+                            澳大利亚, 新南威尔士州
+                        </div>
+                        <div class="o-error__listing-price">
+                            约人民币1,216万起
+                        </div>
+                        <div class="o-error__listing-link">
+                            查看详情 &gt;&gt;
+                        </div>
+                    </a>
+                </div>
+                                <div class="o-error__listing">
+                    <a href="http://www.juwai.com/31088451.htm">
+                        <img class="o-img--120x80" data-src="http://simages7.juwai.com/auto/120x80/store-aa/1c602e11716f491c8b74b319ded9b7a9.jpg" alt="" data-placeholder-size="120px×80px" onerror="imgError(this)">
+
+                        <div class="o-error__listing-title">
+                            澳大利亚, 维多利亚州
+                        </div>
+                        <div class="o-error__listing-price">
+                            约人民币285万起
+                        </div>
+                        <div class="o-error__listing-link">
+                            查看详情 &gt;&gt;
+                        </div>
+                    </a>
+                </div>
+                                <div class="o-error__listing">
+                    <a href="http://www.juwai.com/20897034.htm">
+                        <img class="o-img--120x80" data-src="http://simages6.juwai.com/auto/120x80/store-aa/7a5abdd5c2132b6996dcef5279939752.jpg" alt="" data-placeholder-size="120px×80px" onerror="imgError(this)">
+
+                        <div class="o-error__listing-title">
+                            美国, 佛罗里达州
+                        </div>
+                        <div class="o-error__listing-price">
+                            约人民币143万起
+                        </div>
+                        <div class="o-error__listing-link">
+                            查看详情 &gt;&gt;
+                        </div>
+                    </a>
+                </div>
+                            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container u-margins--vertical-30" id="country-sitemap">
+    <div class="row">
+        <div class="col-xs-12">
+            <div class="c-country-sitemap ">
+            <dl class="c-country-sitemap__continent u-clearfix">
+            <dt class="c-country-sitemap__heading">美洲</dt>
+                            <dd class="c-country-sitemap__country ">
+                    <a class="is-hot" href="http://www.juwai.com/usproperty/" rel="nofollow">
+                        美国
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a class="is-hot" href="http://www.juwai.com/caproperty/" rel="nofollow">
+                        加拿大
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/prproperty/" rel="nofollow">
+                        波多黎各
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/mxproperty/" rel="nofollow">
+                        墨西哥
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/bsproperty/" rel="nofollow">
+                        巴哈马
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/jmproperty/" rel="nofollow">
+                        牙买加
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/viproperty/" rel="nofollow">
+                        美属维京群岛
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/vgproperty/" rel="nofollow">
+                        英属维尔京群岛
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/tcproperty/" rel="nofollow">
+                        特克斯與凱科斯群島
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/kyproperty/" rel="nofollow">
+                        开曼群岛
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/mfproperty/" rel="nofollow">
+                        圣马丁岛
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/bmproperty/" rel="nofollow">
+                        百慕达
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/cwproperty/" rel="nofollow">
+                        库拉索
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/knproperty/" rel="nofollow">
+                        圣克里斯托弗和尼维斯岛
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/bqproperty/" rel="nofollow">
+                        荷兰加勒比区
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/niproperty/" rel="nofollow">
+                        尼加拉瓜
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/blproperty/" rel="nofollow">
+                        圣巴泰勒米岛
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/gtproperty/" rel="nofollow">
+                        危地马拉
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/bbproperty/" rel="nofollow">
+                        巴巴多斯
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/htproperty/" rel="nofollow">
+                        海地
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/aiproperty/" rel="nofollow">
+                        安圭拉
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/cuproperty/" rel="nofollow">
+                        古巴
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/hnproperty/" rel="nofollow">
+                        洪都拉斯
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/svproperty/" rel="nofollow">
+                        萨尔瓦多
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/crproperty/" rel="nofollow">
+                        哥斯达黎加
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/doproperty/" rel="nofollow">
+                        多明尼加
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/paproperty/" rel="nofollow">
+                        巴拿马
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/bzproperty/" rel="nofollow">
+                        伯利兹
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/gdproperty/" rel="nofollow">
+                        格林纳达
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/dmproperty/" rel="nofollow">
+                        多米尼克
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/brproperty/" rel="nofollow">
+                        巴西
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/arproperty/" rel="nofollow">
+                        阿根廷
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/clproperty/" rel="nofollow">
+                        智利
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/peproperty/" rel="nofollow">
+                        秘鲁
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/uyproperty/" rel="nofollow">
+                        乌拉圭
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/sxproperty/" rel="nofollow">
+                        荷属圣马丁
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/coproperty/" rel="nofollow">
+                        哥伦比亚
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/ecproperty/" rel="nofollow">
+                        厄瓜多尔
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/veproperty/" rel="nofollow">
+                        委内瑞拉
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/boproperty/" rel="nofollow">
+                        玻利维亚
+                    </a>
+                </dd>
+                    </dl>
+            <dl class="c-country-sitemap__continent u-clearfix">
+            <dt class="c-country-sitemap__heading">大洋洲</dt>
+                            <dd class="c-country-sitemap__country ">
+                    <a class="is-hot" href="http://www.juwai.com/auproperty/" rel="nofollow">
+                        澳大利亚
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a class="is-hot" href="http://www.juwai.com/nzproperty/" rel="nofollow">
+                        新西兰
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/pgproperty/" rel="nofollow">
+                        巴布亚新几内亚
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/fjproperty/" rel="nofollow">
+                        斐济
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/pwproperty/" rel="nofollow">
+                        帕劳
+                    </a>
+                </dd>
+                    </dl>
+            <dl class="c-country-sitemap__continent u-clearfix">
+            <dt class="c-country-sitemap__heading">欧洲</dt>
+                            <dd class="c-country-sitemap__country ">
+                    <a class="is-hot" href="http://www.juwai.com/ukproperty/" rel="nofollow">
+                        英国
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a class="is-hot" href="http://www.juwai.com/esproperty/" rel="nofollow">
+                        西班牙
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a class="is-hot" href="http://www.juwai.com/deproperty/" rel="nofollow">
+                        德国
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/itproperty/" rel="nofollow">
+                        意大利
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/ptproperty/" rel="nofollow">
+                        葡萄牙
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/frproperty/" rel="nofollow">
+                        法国
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/grproperty/" rel="nofollow">
+                        希腊
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/chproperty/" rel="nofollow">
+                        瑞士
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/mtproperty/" rel="nofollow">
+                        马耳他
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/nlproperty/" rel="nofollow">
+                        荷兰
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/adproperty/" rel="nofollow">
+                        安道尔
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/beproperty/" rel="nofollow">
+                        比利时
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/cyproperty/" rel="nofollow">
+                        塞浦路斯
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/roproperty/" rel="nofollow">
+                        罗马尼亚
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/ruproperty/" rel="nofollow">
+                        俄罗斯
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/fiproperty/" rel="nofollow">
+                        芬兰
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/plproperty/" rel="nofollow">
+                        波兰
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/ltproperty/" rel="nofollow">
+                        立陶宛
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/ieproperty/" rel="nofollow">
+                        爱尔兰
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/atproperty/" rel="nofollow">
+                        奥地利
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/lvproperty/" rel="nofollow">
+                        拉脱维亚
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/trproperty/" rel="nofollow">
+                        土耳其
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/seproperty/" rel="nofollow">
+                        瑞典
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/hrproperty/" rel="nofollow">
+                        克罗地亚
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/luproperty/" rel="nofollow">
+                        卢森堡
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/eeproperty/" rel="nofollow">
+                        爱沙尼亚
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/bgproperty/" rel="nofollow">
+                        保加利亚
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/czproperty/" rel="nofollow">
+                        捷克
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/mcproperty/" rel="nofollow">
+                        摩纳哥
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/noproperty/" rel="nofollow">
+                        挪威
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/siproperty/" rel="nofollow">
+                        斯洛文尼亚
+                    </a>
+                </dd>
+                    </dl>
+            <dl class="c-country-sitemap__continent u-clearfix">
+            <dt class="c-country-sitemap__heading">亚洲</dt>
+                            <dd class="c-country-sitemap__country ">
+                    <a class="is-hot" href="http://www.juwai.com/thproperty/" rel="nofollow">
+                        泰国
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a class="is-hot" href="http://www.juwai.com/sgproperty/" rel="nofollow">
+                        新加坡
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a class="is-hot" href="http://www.juwai.com/jpproperty/" rel="nofollow">
+                        日本
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/idproperty/" rel="nofollow">
+                        印尼
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/aeproperty/" rel="nofollow">
+                        阿联酋
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/hkproperty/" rel="nofollow">
+                        香港
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/myproperty/" rel="nofollow">
+                        马来西亚
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/phproperty/" rel="nofollow">
+                        菲律宾
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/ilproperty/" rel="nofollow">
+                        以色列
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/vnproperty/" rel="nofollow">
+                        越南
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/inproperty/" rel="nofollow">
+                        印度
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/krproperty/" rel="nofollow">
+                        韩国
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/khproperty/" rel="nofollow">
+                        柬埔寨
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/moproperty/" rel="nofollow">
+                        澳门
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/twproperty/" rel="nofollow">
+                        台湾
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/iqproperty/" rel="nofollow">
+                        伊拉克
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/saproperty/" rel="nofollow">
+                        沙特阿拉伯
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/bdproperty/" rel="nofollow">
+                        孟加拉
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/uzproperty/" rel="nofollow">
+                        乌兹别克斯坦
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/lkproperty/" rel="nofollow">
+                        斯里兰卡
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/pkproperty/" rel="nofollow">
+                        巴基斯坦
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/npproperty/" rel="nofollow">
+                        尼泊尔
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/kzproperty/" rel="nofollow">
+                        哈萨克斯坦
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/irproperty/" rel="nofollow">
+                        伊朗
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/bhproperty/" rel="nofollow">
+                        巴林
+                    </a>
+                </dd>
+                    </dl>
+            <dl class="c-country-sitemap__continent u-clearfix">
+            <dt class="c-country-sitemap__heading">非洲</dt>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/zaproperty/" rel="nofollow">
+                        南非
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/egproperty/" rel="nofollow">
+                        埃及
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/muproperty/" rel="nofollow">
+                        毛里求斯
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/keproperty/" rel="nofollow">
+                        肯尼亚
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/aoproperty/" rel="nofollow">
+                        安哥拉
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/tdproperty/" rel="nofollow">
+                        乍得
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/sdproperty/" rel="nofollow">
+                        苏丹
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/ghproperty/" rel="nofollow">
+                        加纳
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/slproperty/" rel="nofollow">
+                        塞拉利昂
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/tzproperty/" rel="nofollow">
+                        坦桑尼亚
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/gaproperty/" rel="nofollow">
+                        加蓬
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/ngproperty/" rel="nofollow">
+                        尼日利亚
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/ciproperty/" rel="nofollow">
+                        象牙海岸
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/cvproperty/" rel="nofollow">
+                        佛得角
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/maproperty/" rel="nofollow">
+                        摩洛哥
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/mwproperty/" rel="nofollow">
+                        马拉维
+                    </a>
+                </dd>
+                            <dd class="c-country-sitemap__country ">
+                    <a href="http://www.juwai.com/ugproperty/" rel="nofollow">
+                        乌干达
+                    </a>
+                </dd>
+                    </dl>
+    </div>
+        </div>
+    </div>
+</div>
+
+
+        <footer class="c-footer container-fluid" id="nav-main-footer">
+    <div class="row">
+        <div class="container u-pos-relative">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="u-col u-col--7 u-at-top c-footer__mission">
+                        <p class="c-footer__title">居外能为您做什么？</p>
+
+                        <p>
+                            作为最大型的中文国际房产搜索引擎, 居外网以一站式平台为全球华人提供116个国家逾百万<!--
+                         -->条环球房源，包括投资房产、移民房产、留学房产、美国 EB-5 投资移民项目等。<!--
+                         -->我们以最具时效的海外房产新闻市场分析和置业指南，助您做出更英明的投资决策。<!--
+                         -->全中文在线房产搜索系统和应用程序也让您得以跨越语言和文化障碍寻觅海外理想家园。<br>
+                            <span class="c-footer__corporate-slogans">居外－－开启您的海外置业之旅！</span>
+                        </p>
+                    </div><!--
+
+                 --><div class="u-col u-col--3 u-at-top c-footer__customer-service">
+                        <p class="c-footer__title">居外中国服务热线</p>
+
+                        <p class="c-footer__telephone-number">400-041-7515</p>
+
+                        <p>
+                            周一至周日 9:00 - 21:00<br>
+                            法定节假日除外<br>
+                            仅收市话费
+                        </p>
+                    </div><!--
+
+                 --><div class="u-col u-col--2 u-at-top c-footer__social-media">
+                        <div class="u-col u-col--6">
+                            <p class="c-footer__title">扫一扫</p>
+                            <p>
+                                免费下载<br>
+                                居外 APP
+                            </p>
+                        </div><!--
+                     --><div class="u-col u-col--6 u-at-top">
+                            <figure class="o-media__figure">
+                                <img src="http://www.juwaistatic.com/juwai-com-v2/assets/img/branding/qr-code-app-juwai.png" alt="">
+                            </figure>
+                        </div><!--
+                     --><div class="u-col u-col--6 u-at-top">
+                            <p>
+                                关注居外<br>
+                                官方微博
+                            </p>
+                        </div><!--
+                     --><div class="u-col u-col--6 u-at-center">
+                            <a href="http://weibo.com/juwaicom" rel="nofollow" target="_blank">
+                                <i class="fa fa-weibo fa-3x"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12">
+                    <div class="c-footer__links">
+                        <p>
+                            <a class="c-footer__link"
+                                href="http://www.juwai.com/general/about-us"
+                                rel="nofollow"
+                            >
+                                关于我们
+                            </a>
+                            <a class="c-footer__link"
+                                href="http://www.juwai.com/join"
+                                rel="nofollow"
+                            >
+                                加入我们
+                            </a>
+                            <a class="c-footer__link" href="http://www.juwai.com/press">
+                                媒体报道
+                            </a>
+                            <a class="c-footer__link" href="http://www.juwai.com/event">
+                                海外房展
+                            </a>
+                            <a class="c-footer__link" href="http://www.juwai.com/news/trends">
+                                居外动态
+                            </a>
+                            <a class="c-footer__link" href="http://www.juwai.com/general/contact-us">
+                                联络我们
+                            </a>
+                            <a class="c-footer__link" href="http://www.juwai.com/general/legal">
+                                版权所有
+                            </a>
+                            <a class="c-footer__link"
+                                href="http://www.juwai.com/general/privacy"
+                                rel="nofollow"
+                            >
+                                隐私条款
+                            </a>
+                            <a class="c-footer__link"
+                                href="http://www.juwai.com/general/investment-regulation"
+                                rel="nofollow"
+                            >
+                                投资须知
+                            </a>
+                            <a class="c-footer__link" href="http://www.juwai.com/archives">
+                                环球资讯
+                            </a>
+                            <a class="c-footer__link" href="http://www.juwai.com/countryindex">
+                                国家与城市索引
+                            </a>
+                            <a class="c-footer__link--advertisers" href="http://list.juwai.com/" rel="nofollow">
+                                Advertisers
+                            </a>
+                        </p>
+                        <p class="c-footer__copyright">
+                            宏居网络技术（上海）有限公司&nbsp;&copy; JUWAI LIMITED
+                            2011 － 2017 版权所有&nbsp;沪ICP备12045782号
+                        </p>
+
+                        <a class="c-footer__link--certificates"
+                            href="http://v.pinpaibao.com.cn/authenticate/cert/?site=www.juwai.com&at=business"
+                            title="安全联盟行业验证证书"
+                            rel="nofollow"
+                        >
+                            <img src="http://www.juwaistatic.com/juwai-com-v2/assets/img/honorary-certificates/anquan.org-verification.png" alt="">
+                        </a>
+                        <a class="c-footer__link--certificates"
+                            href="http://www.police.sh.cn/shga/index.html"
+                            title="上海网警网络110"
+                            rel="nofollow"
+                        >
+                            <img src="http://www.juwaistatic.com/juwai-com-v2/assets/img/honorary-certificates/shanghai-cyber-police.jpg" alt="" />
+                        </a>
+                        <a class="c-footer__link--certificates"
+                            href="https://credit.szfw.org/CX20151107012158330371.html"
+                            title="中国互联网诚信网站认证证书"
+                            rel="nofollow"
+                        >
+                            <img src="http://www.juwaistatic.com/juwai-com-v2/assets/img/honorary-certificates/credit-website.png" alt="" />
+                        </a>
+                        <a class="c-footer__link--certificates"
+                            href="http://si.trustutn.org/info?sn=107150811016252719135"
+                            title="实名网站认证证书"
+                            rel="nofollow"
+                        >
+                            <img src="http://www.juwaistatic.com/juwai-com-v2/assets/img/honorary-certificates/trusted-website.png" alt="" />
+                        </a>
+
+                        <p>
+                            <a class="c-footer__link"
+                                href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010902001352"
+                                target="_blank"
+                                rel="nofollow"
+                            >
+                                <img class="u-at-bottom"
+                                    src="http://www.juwaistatic.com/juwai-com-v2/assets/img/honorary-certificates/security-approval.png"
+                                    alt=""
+                                >
+                                沪公网安备 31010902001352号
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="c-quick-links">
+    <ul class="c-quick-links__box" id="quick-links">
+        <li class="c-quick-links__wrapper" id="js-action__quick-link--enquiry">
+            <a class="c-quick-links__link" data-action>
+                <div class="c-quick-links__panel o-arrows">
+                    <i class="o-arrow o-arrow--right-top"></i>
+
+                    <p>
+                        提交置业要求
+                        <br>
+                        让居外帮你找房
+                    </p>
+                </div>
+            </a>
+        </li>
+
+        <li class="c-quick-links__wrapper" id="quick-link--call">
+            <a class="c-quick-links__link">
+                <div class="c-quick-links__panel o-arrows">
+                    <i class="o-arrow o-arrow--right-top"></i>
+
+                    <p>居外服务热线 400-041-7515</p>
+
+                    <hr>
+
+                    <p>
+                        港澳台及海外客户请致电
+                        <br>
+                        +852 2850 5083
+                    </p>
+
+                    <hr>
+
+                    <p>周一至周日 9:00 - 21:00</p>
+                </div>
+            </a>
+        </li>
+
+        <li class="c-quick-links__wrapper" id="quick-link--weixin">
+            <a class="c-quick-links__link">
+                <div class="c-quick-links__panel o-arrows">
+                    <i class="o-arrow o-arrow--right-top"></i>
+
+                    <img src="http://www.juwaistatic.com/images/qrcode_for_juwai.jpg?v=1"
+                        title="居外微信服务号"
+                        alt="">
+
+                    <p>居外微信服务号</p>
+                </div>
+            </a>
+        </li>
+
+        <li class="c-quick-links__wrapper" id="quick-link--back-to-top">
+            <a class="c-quick-links__link" href="#juwai-com">
+                <div class="c-quick-links__panel o-arrows">
+                    <i class="o-arrow o-arrow--right-top"></i>
+
+                    <p>返回顶部</p>
+                </div>
+            </a>
+        </li>
+    </ul>
+
+    <div class="c-dialog is-hidden c-enquiry" id="js-dialog__quick-link-enquiry">
+        <div class="c-dialog__modal c-dialog__modal">
+            <div class="c-dialog__header">
+                <i class="c-dialog__close ui-o-icon__remove"
+                    data-action="close-dialog"
+                ></i>
+                <h2 class="c-enquiry__title">全球房源240万套<br/>居外帮您找！</h2>
+                <p class="c-enquiry__required">
+                    <i class="fa fa-exclamation-circle"></i>
+                    <i class="c-enquiry__required-star">*</i>
+                    为必填信息
+                </p>
+            </div>
+
+            <div class="c-dialog__body">
+                <div class="c-form c-enquiry-form__quick-link" id="js-enquiry__quick-link">
+                    <form class="js-enquiry-form">
+                        <input type="hidden" name="origin" value="Web">
+                        <input type="hidden" name="orgid" value="00D90000000lh7N">
+                                                <input
+                            type="hidden"
+                            name="url"
+                            value='https://www.salesforce.com/servlet/servlet.WebToCase?encoding=UTF-8'
+                        >
+                        <input type="hidden" name="reason" value="General"/>
+                        <input type="hidden" name="type" value="Global Home Page">
+                        <input
+                            type="hidden"
+                            name="subject"
+                            value="Global Home Page Enquiry "
+                        >
+                                                <input
+                            id="00N90000006vyDW"
+                            type="hidden"
+                            name="00N90000006vyDW"
+                            value="Chinese Simplified"
+                        >
+                        <div class="c-enquiry-form__input">
+                            <input
+                                class="c-enquiry-form__input--text"
+                                name="name"
+                                data-validate="require|name"
+                                type="text"
+                                value=""
+                                placeholder="请输入您的姓名"
+                            >
+                        </div>
+                        <div class="c-enquiry-form__input c-enquiry-form__input--background">
+                            <input
+                                class="c-enquiry-form__input--text js-enquiry__country-tel-code"
+                                name="phone"
+                                data-validate="require|numeric"
+                                type="text"
+                                value=""
+                                placeholder="请输入您的电话"
+                            >
+                        </div>
+                        <div class="c-enquiry-form__input">
+                            <input
+                                class="c-enquiry-form__input--text "
+                                name="email"
+                                data-validate="require|email"
+                                type="text"
+                                value=""
+                                placeholder="请输入您的邮箱"
+                            >
+                        </div>
+
+                        <div class="c-enquiry-form__textarea">
+                            <textarea
+                                class="c-enquiry-form__input--textarea"
+                                name="description"
+                                placeholder="请告诉我们您的置业需求，稍后专人将电话联系您。如：墨尔本，学区房，预算人民币500万"></textarea>
+                        </div>
+
+                                                <div class="c-enquiry-form__login-container">
+                            <label>
+                                <input
+                                    class="c-enquiry-form__input--checkbox"
+                                    name="reg"
+                                    type="checkbox"
+                                    value="1"
+                                    checked="checked"
+                                >成为居外会员</label>
+
+                            <span
+                                class="c-enquiry-form__login"
+                                data-action
+                            >会员登录</span>
+                        </div>
+                                                <a class="c-enquiry-form__submit-button" data-action>提交</a>
+                        <input type="submit" class="is-hidden"/>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="c-dialog is-hidden u-text-center" id="js-dialog__close-enquiry-panel">
+        <div class="c-dialog__modal c-dialog__modal--timer">
+            <div class="c-dialog__header">
+                <i class="c-dialog__close fa fa-times"
+                    data-action="close-dialog"
+                ></i>
+            </div>
+            <div class="c-dialog__body">
+                <img src="http://www.juwaistatic.com/juwai-com-v2/assets/img/utility/ok_button.png"
+                    title="Okay"
+                    alt="Okay"
+                />
+                <p class="ui-u-line-height--normal ui-u-font-size--h3">
+                    我们会有专人尽快与您联系！
+                </p>
+                <p class="ui-u-line-height--xsmall ui-u-font-size--h6">
+                    感谢您对居外的信任！
+                </p>
+                <p class="ui-u-line-height--xsmall ui-u-font-size--h6 u-margin--top--20">
+                    <span class="c-dialog__timer" data-timer></span>
+                    秒自动关闭
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="js-login-modal">
+    <div class="c-dialog c-dialog--login is-hidden" id="js-dialog__login-modal">
+        <div class="c-dialog__modal">
+            <div class="c-dialog__header">
+                <i class="c-dialog__close fa fa-times" data-action="close-dialog"></i>
+            </div>
+
+            <div class="c-dialog__body c-login u-clearfix">
+                <div class="c-login__form js-view__login">
+                    <div class="c-login__header">
+                        <h3 class="c-login__title">欢迎回来！请登录</h3>
+
+                        <a class="c-login__link c-login__link--switcher js-login__link--switcher"
+                            data-action="to-register"
+                            data-switch-to=".js-view__register"
+                        >
+                            注册居外帐号
+                        </a>
+                    </div>
+                    <div class="c-login__body">
+                        <form class="js-login">
+                            <div class="c-login__input-group _c-login__input-group">
+                                <input class="c-login__input--text" name="email"
+                                    data-msg-required="务必填写"
+                                    data-msg-email="格式错误"
+                                    required
+                                    type="email"
+                                    placeholder="电子邮箱"
+                                >
+                            </div>
+                            <div class="c-login__input-group _c-login__input-group">
+                                <input class="c-login__input--text" name="password"
+                                    data-msg-required="务必填写"
+                                    required
+                                    type="password"
+                                    placeholder="密码"
+                                >
+                            </div>
+                            <div class="c-login__input-group u-text-center">
+                                <span>忘记密码？</span>
+                                <a class="c-login__link"
+                                    href="http://www.juwai.com/resetpassword/">
+                                    轻松找回！
+                                </a>
+                            </div>
+                            <div class="c-login__input-group u-text-center">
+                                <button class="c-btn--primary c-login__btn"
+                                    type="submit"
+                                >登录</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+                <div class="c-login__form js-view__register is-hidden">
+                    <div class="c-login__header">
+                        <h3 class="c-login__title">注册居外帐号</h3>
+
+                        <a class="c-login__link c-login__link--switcher js-login__link--switcher"
+                            data-action
+                            data-switch-to=".js-view__login"
+                        >
+                            会员登录
+                        </a>
+                    </div>
+                    <div class="c-login__body">
+                        <form class="js-register">
+                            <div class="c-login__input-group _c-login__input-group">
+                                <span class="_c-login__label">用户名</span>
+                                <input class="c-login__input--text _c-login__input--text" name="username"
+                                    data-msg-required="务必填写"
+                                    data-rule-minlength="6"
+                                    data-msg-minlength="格式错误"
+                                    data-rule-username="true"
+                                    data-msg-username="格式错误"
+                                    data-rule-check_duplicate="true"
+                                    data-msg-check_duplicate="已被占用"
+                                    data-check_duplicate="name"
+                                    required
+                                    type="text"
+                                    placeholder="（由字母和数字组成，最少6位）"
+                                >
+                            </div>
+                            <div class="c-login__input-group _c-login__input-group">
+                                <span class="_c-login__label">电子邮箱</span>
+                                <input class="c-login__input--text _c-login__input--text" name="email"
+                                    data-msg-required="务必填写"
+                                    data-msg-email="格式错误"
+                                    data-rule-check_duplicate="true"
+                                    data-msg-check_duplicate="已被占用"
+                                    required
+                                    type="email"
+                                    placeholder="（用于获取或找回密码）"
+                                >
+                            </div>
+                            <div class="c-login__input-group _c-login__input-group _c-login__input-group--checkbox">
+                                <label>
+                                    <input class="c-login__input--checkbox" name="user_agreement"
+                                        data-msg-required="请先同意以上条款"
+                                        required
+                                        type="checkbox"
+                                        checked
+                                    >
+                                    已阅读并认可
+                                    <a class="c-login__link" href="http://www.juwai.com/general/privacy/">
+                                        《用户使用协议》
+                                    </a>
+                                </label>
+                            </div>
+                            <div class="c-login__input-group u-text-center">
+                                <button class="c-btn--primary c-login__btn"
+                                    type="submit"
+                                >注册</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+                <div class="c-login__form c-login__form--social">
+                    <div class="c-login__header">
+                        <h3 class="c-login__title">使用社交帐号登录</h3>
+                    </div>
+                    <div class="c-login__body">
+                        <div class="c-login__input-group">
+                            <button class="c-login__btn c-login__btn--social c-login__btn--qq u-text-left js__third-party-login"
+                                data-type="qq"
+                            >
+                                <i class="c-login__icon fa fa-qq" aria-hidden="true"></i>
+                                用QQ帐号登录
+                            </button>
+                        </div>
+
+                        <div class="c-login__input-group">
+                            <button class="c-login__btn c-login__btn--social c-login__btn--weibo u-text-left js__third-party-login"
+                                data-type="weibo"
+                            >
+                                <i class="c-login__icon fa fa-weibo" aria-hidden="true"></i>
+                                用新浪微博帐号登录
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="c-dialog is-hidden u-text-center" id="js-dialog__login-successfully">
+    <div class="c-dialog__modal c-dialog__modal--timer">
+        <div class="c-dialog__header">
+            <i class="c-dialog__close fa fa-times"
+                data-action="close-dialog"
+            ></i>
+        </div>
+        <div class="c-dialog__body">
+            <img src="http://www.juwaistatic.com/juwai-com-v2/assets/img/utility/ok_button.png"
+                title="Okay"
+                alt="Okay"
+            />
+            <h3>登录成功!</h3>
+            <p><span class="c-dialog__timer" data-timer></span> 秒自动关闭</p>
+        </div>
+    </div>
+</div>
+
+<div class="c-dialog is-hidden u-text-center" id="js-dialog__register-successfully">
+    <div class="c-dialog__modal c-dialog__modal--timer">
+        <div class="c-dialog__header">
+            <i class="c-dialog__close fa fa-times"
+                data-action="close-dialog"
+            ></i>
+        </div>
+        <div class="c-dialog__body">
+            <img src="http://www.juwaistatic.com/juwai-com-v2/assets/img/utility/ok_button.png"
+                title="Okay"
+                alt="Okay"
+            />
+            <p class="ui-u-line-height--normal ui-u-font-size--h3">
+                您已成功成为居外会员！
+            </p>
+            <p class="ui-u-line-height--xsmall ui-u-font-size--h6">
+                请登录您的邮箱查收密码
+            </p>
+            <p class="ui-u-line-height--xsmall ui-u-font-size--h6 u-margin--top--20">
+                <span class="c-dialog__timer" data-timer></span>
+                秒自动关闭
+            </p>
+        </div>
+    </div>
+</div>
+        </div>
+    </div>
+</footer>
+
+                    <script>
+                window.JW = {"isLoggedIn":false,"errorMessages":{"validateWrongMeg":{"empty":"\u52a1\u5fc5\u586b\u5199","emptyMobile":"\u52a1\u5fc5\u586b\u5199\u7535\u8bdd\u53f7\u7801","emptyEmail":"\u52a1\u5fc5\u586b\u5199\u90ae\u7bb1","emptyName":"\u52a1\u5fc5\u586b\u5199\u59d3\u540d","emptyCaptcha":"\u52a1\u5fc5\u586b\u5199\u9a8c\u8bc1\u7801","format":"\u683c\u5f0f\u9519\u8bef","formatEmail":"\u8bf7\u8f93\u5165\u6709\u6548\u7684\u90ae\u4ef6\u5730\u5740","formatName":"\u8bf7\u8f93\u5165\u6b63\u786e\u7684\u59d3\u540d\u683c\u5f0f","formatPhone":"\u8bf7\u8f93\u5165\u6709\u6548\u7684\u7535\u8bdd\u683c\u5f0f\uff0c\u4e2d\u95f4\u65e0\u7a7a\u683c","invalidNumber":"\u8bf7\u8f93\u5165\u8be5\u56fd\u5bb6\u6709\u6548\u7684\u7535\u8bdd\u53f7\u7801","length":"\u8bf7\u8f93\u5165:min \uff5e :max\u4f4d\u5b57\u7b26","min_length":"\u8bf7\u8f93\u5165\u81f3\u5c11:min\u4f4d\u5b57\u7b26"},"submitFailed":"\u63d0\u4ea4\u5931\u8d25","agreement":"\u8bf7\u5148\u540c\u610f\u4ee5\u4e0a\u6761\u6b3e","isTaken":"\u5df2\u88ab\u5360\u7528","accountNotExist":"\u65e0\u6b64\u5e10\u53f7","incorrectPassword":"\u5bc6\u7801\u9519\u8bef"},"addToFavorite":{"favoriteSuccess":"\u6536\u85cf\u6210\u529f\uff01","favoriteFail":"\u6536\u85cf\u5931\u8d25\uff01","favoriteExisted":"\u5df2\u5728\u6536\u85cf\u5217\u8868\u4e2d\uff01"},"removeFromFavorite":{"unfavorite_success":"\u53d6\u6d88\u6536\u85cf\u6210\u529f\uff01","unfavorite_fail":"\u53d6\u6d88\u6536\u85cf\u5931\u8d25\uff01"},"enquiryListing":{"enquired":"\u5df2\u54a8\u8be2"},"salesforceUrl":"http:\/\/www.juwai.com\/?c=collect&a=sale_force_data","enquiryRegisterUrl":"http:\/\/www.juwai.com\/?c=collect&a=extra_register","modalLoginUrl":"http:\/\/www.juwai.com\/?c=collect&a=login","guidebooksUrl":"http:\/\/www.juwai.com\/?c=collect&a=register","listingEnquireUrl":"http:\/\/www.juwai.com\/v2\/listing-enquire\/","enquiryListingUrl":"http:\/\/www.juwai.com\/?c=collect&a=addluxeenquiry","subscribeEmailUrl":"http:\/\/www.juwai.com\/?c=collect&a=subscribeEmail","brochureCaptchaUrl":"http:\/\/www.juwai.com\/?c=main&a=captchacreater&page=book","getInteractionNumUrl":"http:\/\/www.juwai.com\/?c=collect&a=getInteractionNum","logoutUrl":"http:\/\/www.juwai.com\/?c=collect&a=logout","compareAction":{"placeholderImage":"none_img.gif","overLimitMessage":"\u623f\u4ea7\u5bf9\u6bd4\u6700\u591a\u80fd\u6dfb\u52a04\u4e2a","inListMessage":"\u5df2\u5728\u5bf9\u6bd4\u5217\u8868\u4e2d","continueAdd":"\u60a8\u8fd8\u53ef\u4ee5\u7ee7\u7eed\u6dfb\u52a0"},"juwaiUrl":"http:\/\/www.juwai.com\/","juwaiStaticUrl":"http:\/\/www.juwaistatic.com\/","globalAjaxUrls":{"stats":"http:\/\/api.juwai.com\/stats\/","listingSuggestion":"\/v2\/listing-suggestion\/","newsSuggestion":"\/v2\/news-suggestion\/","listingSearch":"\/globalsearch\/","newsSearch":"\/search\/","collectSearch":"\/v2\/collect\/search\/","browserSignature":"\/v2\/stats\/set-browser-signature\/"}} || {};
+            </script>
+            <script src="http://www.juwaistatic.com/ui.juwai.io/assets/juwai-ui.min.js?v=1501578584"></script>
+            <script src="http://www.juwaistatic.com/juwai-com-v2/assets/js/juwai-com-v2.min.js?6f376d1cff"></script>
+            <script src="http://www.juwaistatic.com/juwai-com-v2/assets/js/universal-header.min.js?c93f395006"></script>
+            <script>
+                (function() {
+                    'use strict';
+
+                    
+
+                })();
+            </script>
+            </body>
+</html>

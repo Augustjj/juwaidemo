@@ -1,0 +1,181 @@
+.common_login_reg{
+	width: 380px;
+	height: 320px;
+	margin-top: 0px;
+	padding-top: 0px;
+	position: relative;
+	top: 40px;
+	float: left;
+	padding-left: 40px;
+}
+.log_reg_title{
+	border-bottom: 1px solid #DDD;
+	height: 50px;
+	margin-top: -15px;
+	padding-top: 10px;
+	width: 340px;
+}
+.welcome_back, .welcome_reg{
+	float: left;
+	margin-top: 4px;
+}
+.welcome_back{
+	font-size: 18px;
+}
+.welcome_reg{
+	font-size: 16px;
+}
+#login,#regis{
+	float: right;
+	color: #F00;
+	margin-top: 7px;
+	font-size: 14px;
+	cursor: pointer;
+}
+.form_log, .form_reg{
+	width: 335px;
+}
+.form_log, .form_reg{
+	height: 225px;
+	margin-top: 30px;
+}
+.form-row{
+	position: relative;
+}
+#popLogin_email,#popLogin_pw,#popSignup_name,#popSignup_email{
+	color: #a2a2a2;
+	font-size: 14px;	
+	height: 45px;
+	margin: 10px 0;
+	
+}
+#popLogin_email,#popLogin_pw{
+	padding-left: 16px;
+	width: 319px;
+	border: 1px solid #DDD;
+}
+#popSignup_name{
+	width: 255px;
+	padding-left: 80px;
+}
+#popSignup_email{
+	width: 215px;
+	padding: 0 40px 0 80px;
+}
+
+.error_log, .error_sign{
+	position: absolute;
+	width: 50px;
+	top: 13px; 
+	left: -80px; 
+	display: none;
+}
+#singnup_form .pop_notice{
+	display: none;
+    background: url('../images/login/notice.png') no-repeat scroll 0% 0% transparent;
+    height: 18px;
+    width: 18px;
+    position: absolute;
+    top: 25px;
+    right: 10px;
+}
+#log_bt, #sign_bt{
+	width: 100%;
+	height: 45px;
+	background: #F00;
+	cursor:pointer;
+	color:#fff;
+	margin: 20px 0 0;
+}
+#log_bt:hover, #sign_bt:hover{
+	background: #e10004;
+}
+#log_bt span, #sign_bt span{
+	padding-top: 13px;
+	display: block; 
+	text-align: center; 
+	font-size: 16px;
+}
+.sign_tip{
+	position: absolute;
+	background: url('../images/luxe/star.png?v=1') no-repeat scroll 100% 34% transparent;
+	left: 13px;
+	padding-right: 10px;
+	top: 26px;
+}
+
+.social{
+	height: 320px;
+	top: 40px;
+	float: left;
+	position: relative;
+	width: 339px;
+	border-left: 1px solid #DDD;
+}
+.social .st{
+	border-bottom: 1px solid #DDD;
+	height: 50px;
+	margin-left: 40px;
+	width: 270px;
+	margin-top: -15px;
+	padding-top: 10px;
+}
+.social .st p{
+	font-size: 16px;
+	margin-top: 8px;
+}
+.social_box{
+	color: #FFF;
+	margin: 40px 0 0 40px;
+}
+.social_bt{
+	width: 230px;
+	height: 40px;
+	border-radius: 20px;
+	margin-bottom: 30px;
+	cursor:pointer;
+}
+#reg .social_way, #log .social_way{
+    padding-top: 11px;
+    padding-left: 60px;
+    letter-spacing: 0.1em;
+	font-size: 14px;
+}
+
+.popLogin_div{
+	width:760px;
+	height:400px;
+	margin:0px auto;
+	background: #efefef;
+	transition: all 0.6s ease 0s;
+	-webkit-transition: all 0.6s ease 0s;
+	-moz-transition: all 0.6s ease 0s;
+	-ms-transition: all 0.6s ease 0s;
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	-ms-backface-visibility: hidden;
+	backface-visibility: hidden;
+	position:absolute;
+}
+.popLogin_div_close{
+	display: block;
+	top: 10px;
+	right: 10px;
+    position: absolute;
+    cursor:pointer;
+    z-index: 999;
+}
+.popLogin_div_close img{
+	padding: 10px;
+}
+.changefb{
+ transform: rotateY(-180deg);
+ -ms-transform:rotateY(-180deg);
+ -moz-transform:rotateY(-180deg);
+}
+.changebf{
+transform: rotateY(0deg);
+-webkit-transform:rotateY(0deg);
+-ms-transform:rotateY(0deg);
+-moz-transform:rotateY(0deg);
+}

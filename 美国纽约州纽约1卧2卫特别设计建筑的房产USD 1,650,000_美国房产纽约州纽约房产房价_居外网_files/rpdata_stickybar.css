@@ -1,0 +1,144 @@
+/*****rpdata stickybar***/
+.rpdata_stickybar{
+	margin-top: 1px;
+	height:170px;
+	z-index: 20;
+	background: none;
+	box-shadow: 0px 3px 5px #888888;
+	margin-bottom: 6px;
+	position: fixed;
+	width: 100%;
+	top: 67px;
+	z-index:88;
+	display: none;
+}
+.rpdata_stickybar_bg{
+	background: #000;
+	opacity: 0.8;
+	width: 100%;
+	height: 100%;
+}
+.rpdata_stickybar_main{
+	width: 980px;
+	margin: 0px auto;
+	position:relative;
+	top: -170px;
+}
+.rpdata_stickybar_logo{
+	width: 185px;
+	height: 184px;
+	position: relative;
+	top: 10px;
+	margin-left: -40px;
+	float: left;
+	background: url(../images/property_detail/RPData-stickybar.png) 0px 0px no-repeat;
+}
+.aureport_stickybar_logo{
+	background: url(../images/property_detail/RPData-stickybar_au.png) 0px 0px no-repeat;
+}
+.usreport_stickybar_logo{
+	background: url(../images/property_detail/RPData-stickybar_us.png) 0px 0px no-repeat;
+}
+.ukreport_stickybar_logo{
+	background: url(../images/property_detail/RPData-stickybar_uk.png) 0px 0px no-repeat;
+}
+.careport_stickybar_logo{
+	background: url(../images/property_detail/RPData-stickybar_ca.png) 0px 0px no-repeat;
+}
+.nzreport_stickybar_logo{
+	background: url(../images/property_detail/RPData-stickybar_nz.png) 0px 0px no-repeat;
+}
+.sgreport_stickybar_logo{
+	background: url(../images/property_detail/RPData-stickybar_sg.png) 0px 0px no-repeat;
+}
+.rpdata_stickybar_con {
+	float: left;
+	display: block;
+	width: 700px;
+	margin-left: 27px;
+}
+.us_rpdata_stickybar_con,.uk_rpdata_stickybar_con{
+	width: 780px;
+}
+.rpdata_stickybar_con h2 {
+	color: #fff;
+	font-size: 16px;
+	line-height: 24px;
+	margin-top: 26px;
+	height: 48px;
+	font-weight: normal;
+}
+.rpdata_stickybar_con label{
+	display: block;
+	float: left;
+	height: 25px;
+	width: 100px;
+	color: #fff;
+	font-size: 16px;
+	line-height: 24px;
+}
+.rpdata_stickybar_con ul{
+	display: block;
+	float: left;
+	margin-top: 2px;
+	min-width: 200px;
+	width: auto;
+}
+.rpdata_stickybar_con ul li{
+	display: block;
+	height: 20px;
+	font-size:14px; 
+	min-width: 200px;
+    width: auto;
+
+}
+.rpdata_stickybar_con ul li i{
+	width: 18px;
+	height: 17px;
+	margin-top: 3px;
+	float: left;
+	display: block;
+	background: url(../images/property_detail/RPData-stickybar.png) -20px -184px no-repeat;
+}
+.rpdata_stickybar_con ul li span{
+	line-height: 20px;
+	display: block;
+	float: left;
+	color: #fff;
+	padding-left:3px;
+}
+.rpdata_stickybar_span{
+	font-size: 18px;
+	color: #eee;
+	float: right;
+	margin-right: 20px;
+	margin-top: 37px;
+}
+.rpdata_stickybar_con .rpdata_stickybar_btn{
+	float: right;
+	display: block;
+	width: auto;
+	height: 58px;
+	color: #fff;
+	font-size: 16px;
+	line-height: 58px;
+	text-align: center;
+	margin-top: 0px;
+	border-radius:29px;
+	background: #ff0000;
+	padding:0px 20px;
+}
+.rpdata_stickybar_con .rpdata_stickybar_btn:hover{
+	text-decoration: none;
+	background: #ff0000;
+}
+.rpdata_stickybar_close{
+	color:#999;
+	float: right;
+	width: 55px;
+	height: 20px;
+	right: 20px;
+	top: 20px;
+	position: absolute;
+	cursor: pointer;
+}
