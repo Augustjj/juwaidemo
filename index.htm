@@ -305,20 +305,6 @@ googletag.cmd.push(function() {
     </div>
 </div>
 
-<script type="text/javascript">
-    // To make the universal header work, we need these settings for universal header JavaScript.
-    // All the settings MUST be same as juwai-com-v2.
-    window.JW.globalAjaxUrls = {
-        listingSuggestion: '/v2/listing-suggestion/',
-        newsSuggestion: '/v2/news-suggestion/',
-        collectSearch: '/v2/collect/search',
-        listingSearch: '/globalsearch/',
-        newsSearch: '/search/'
-    };
-    window.JW.logoutUrl = '/?c=collect&a=logout';
-</script>
-<script src="./美国纽约州纽约1卧2卫特别设计建筑的房产USD 1,650,000_美国房产纽约州纽约房产房价_居外网_files/universal-header.min.js" type="text/javascript"></script>
-
             <div class="c-navigation c-navigation--v1" id="nav-main-menu">
     <nav class="o-container o-container--main">
         <ul class="c-navigation__main">
@@ -580,19 +566,7 @@ googletag.cmd.push(function() {
 
                     </div>
                     <div style="clear: both;"></div>
-                    <script type="text/javascript">
-                        if($('#new_panel2').find('.img_p').length > 0){
-                            $("#loading_box .large_img_conn").click(function(){
-                                var rel_arr = new Array();
-                                var is = 0;
-                                for(var i=0; i<$('.detail_scroll_item img').length; i++){
-                                    rel_arr.push(new Array($('.detail_scroll_item img').eq(i).attr("src"),$('.detail_scroll_item img').eq(i).attr("lsrc")));
-                                    if($('.detail_scroll_item img').eq(i).attr("class").indexOf("selected") !== -1) is = i;
-                                }
-                                tb_show(null,rel_arr,'planeGraph_icon',is);
-                            }).css('cursor','pointer');
-                        }
-                    </script>
+                    
                 </div>
 
                 <div class="detail_caption_info">
@@ -673,37 +647,7 @@ googletag.cmd.push(function() {
                                 <th>其他属性：</th>
                                 <td class="aside"><span>特别设计建筑</span>
                                 <span id="property_view2" num="1">城市景观</span>
-                                <span id="facing2" num="0"></span></td>
-                                <script type="text/javascript">
-                                    switch($("#property_view2").attr("num")){
-                                        case "11":$("#property_view2").html("沙滩景观");break;
-                                        case "1":$("#property_view2").html("城市景观");break;
-                                        case "9":$("#property_view2").html("沙漠景观");break;
-                                        case "12":$("#property_view2").html("街景观");break;
-                                        case "14":$("#property_view2").html("森林景观");break;
-                                        case "13":$("#property_view2").html("草地景观");break;
-                                        case "6":$("#property_view2").html("湖景观");break;
-                                        case "2":$("#property_view2").html("山景观");break;
-                                        case "3":$("#property_view2").html("海景观");break;
-                                        case "4":$("#property_view2").html("河景观");break;
-                                        case "10":$("#property_view2").html("滑雪场景观");break;
-                                        case "8":$("#property_view2").html("水景观");break;
-                                        case "7":$("#property_view2").html("高尔夫球场景观");break;
-                                    };
-
-                                    switch($("#facing2").attr("num")){
-                                        case "1":$("#facing2").html("朝向东");break;
-                                        case "2":$("#facing2").html("朝向南");break;
-                                        case "3":$("#facing2").html("朝向西");break;
-                                        case "4":$("#facing2").html("朝向北");break;
-                                        case "5":$("#facing2").html("朝向东北");break;
-                                        case "6":$("#facing2").html("朝向东南");break;
-                                        case "7":$("#facing2").html("朝向西南");break;
-                                        case "8":$("#facing2").html("朝向西北");break;
-                                        case "9":$("#facing2").html("朝向南北");break;
-                                        case "10":$("#facing2").html("朝向东西");break;
-                                    };
-                                </script>
+                          
                             </tr>
                                                     </tbody></table>
                     </div>
@@ -1296,30 +1240,8 @@ Rainbow New York Inc.<br>
         <div class="clear"></div>
             </div>
 
-    <script type="text/javascript">
-    $( '.leave-msg' ).click(function() {
-        $( '.tab0' ).click();
-        $( '.tableForm input.input:eq(0)' ).focus();
-        ga( 'send', 'event', 'questionclickb', 'click', 'question', 0 );
 
-        return false;
-    });
-        </script>
-
-    <div id="searchwell" style="display:none;"></div>
-    <script type="text/javascript">
-
-var qualityValue = 80;
-var showMap = +'0';
-var mapZoom = 12;
-
-var propertyLocation = '';
-
-var property_LAT = 0;
-var property_LONG = 0;
-$( yahooGeo( propertyLocation, showMap, qualityValue ) );
-
-</script><script type="text/javascript" src="./美国纽约州纽约1卧2卫特别设计建筑的房产USD 1,650,000_美国房产纽约州纽约房产房价_居外网_files/js"></script>    <script type="text/javascript">
+ <script type="text/javascript" src="./美国纽约州纽约1卧2卫特别设计建筑的房产USD 1,650,000_美国房产纽约州纽约房产房价_居外网_files/js"></script>    <script type="text/javascript">
     $(window).bind('scroll resize',function(){
         /** menu **/
         var win_T = parseInt($(window).scrollTop());
@@ -1356,187 +1278,6 @@ $( yahooGeo( propertyLocation, showMap, qualityValue ) );
             $('#tab_part .tab2 a').click();
         }
     </script>
-
-<script type="text/javascript">
-    function agent_contact(){
-        try{ga('send', 'event', 'Agent_Contact_Click', 'click', '18537167');}catch(e){}
-        var form_url = "http://www.juwai.com/?c=property&a=enquiry_form&type=form_agent&pid=18537167&aid=25191&lang=sc&from=detail&height=410&width=420&modal=true&popf=agent_contact()";
-        tb_show(null,form_url,false);
-    }
-    $('.agent_contact').bind('click',function(){agent_contact();})
-    function loan_cha_sub(){
-        var $submit = $("#sub_loan");
-        if ($submit.attr("submitStatus") == undefined || $submit.attr("submitStatus") == "true") {
-            $("#error_msg_loan").empty("onCheck");
-            $(".errorMsg").hide();
-            var status1 = status2 = status3 = false;
-            var name = $("#enquiry_loan_name");
-            var phone = $("#enquiry_loan_phone");
-            var email = $("#enquiry_loan_email");
-            status1 = check_name(name);
-            status2 = check_phone(phone);
-            status3 = check_email(email);
-            if(status1 && status2 && status3){
-                if($("input[name='loan_be_member']").attr('checked'))
-                    var be_mem=1;
-                else
-                    var be_mem='';
-                $submit.attr("submitStatus","false");
-                $submit.text("提    交    中...");
-
-                $("#TB_ajaxContent #subcribe_email").val(email.val());
-                var subscribe_form_data = $('#TB_ajaxContent #subcribe_form').serialize();
-
-                $.getJSON("http://www.juwai.com/index.php",{
-                    c:"collect",
-                    a:"extra_register",
-                    email:email.val(),
-                    phone:phone.val(),
-                    name:name.val(),
-                    reg:be_mem,
-                    property_id:18537167,
-                    TARGET_COUNTRY:'United States',
-                    IS_ENQUIRY:1,
-                    COMMENT:$('#enquiry_from_textarea_loan').val(),
-                },function(){
-                    var sub_url = "http://www.juwai.com/?c=collect&a=subscribeEmail";
-                    $.ajax({
-                        type: 'POST',
-                        url: sub_url,
-                        data: subscribe_form_data,
-                        dataType: 'json',
-                    })
-                });
-                var form = $("form#enquiry_loan_form");
-                var p_url = 'http://www.juwai.com/?c=collect&a=sale_force_data&url='+form.attr("action");
-                /* if(be_mem==1){
-                    var sub_form = $('#subcribe_form');
-                    $("#subcribe_email").val($("#enquiry_loan_email").val());
-                    $("#subcribe_phone").val($("#enquiry_loan_phone").val());
-                    $.ajax({
-                        type: 'POST',
-                        url: p_url,
-                        data: sub_form.serialize(),
-                        dataType: 'json',
-                    })
-                } */
-
-                $.ajax({
-                    type: "POST",
-                    url: p_url,
-                    data: form.serialize(),
-                    dataType:"json",
-                    success: function(msg){
-                        $submit.attr("submitStatus","true");
-                        $submit.text("提    交");
-                        if(msg.result==1){
-                            $("#TB_window").hide();
-                            tb_remove();
-                            //if($("#TB_ajaxContent").length>0) $("#TB_window").empty();
-                            //tb_show(null,ROOT_PATH+"?c=usermanager&a=confirm&f=true&msg=10&height=395&width=423&modal=false&enquiry=1",false);
-                            //$("#TB_window").css({"border-radius":"4px","border":"0"});
-                            //$('#subscribe_form').hide();
-                            juwaiAlert('感谢您对居外的信任！<br />我们会尽快为您提供该房产的租金或贷款情况！');
-                            update_interaction_num('enquiry');
-                            ga('send', 'event', 'Cal_Detail_Submit_Success', 'click', {'nonInteraction': 1});
-                        }else{
-                            alert('submit fail!');
-                            ga('send', 'event', 'Cal_Detail_Submit_Error', 'click', {'nonInteraction': 1});
-                        }
-                    },error:function(data){
-                        alert('submit fail!');
-                        ga('send', 'event', 'Cal_Detail_Submit_Error', 'click', {'nonInteraction': 1});
-                    }
-                });
-            }
-        }
-    }
-    function price_cha_sub(){
-        var $submit = $("#sub_price");
-        if ($submit.attr("submitStatus") == undefined || $submit.attr("submitStatus") == "true") {
-            $("#error_msg_loan").empty("onCheck");
-            $(".errorMsg").hide();
-            var status1 = status2 = status3 = false;
-            var name = $("#enquiry_price_name");
-            var phone = $("#enquiry_price_phone");
-            var email = $("#enquiry_price_email");
-            status1 = check_name(name);
-            status2 = check_phone(phone);
-            status3 = check_email(email);
-            if(status1 && status2 && status3){
-                if($("input[name='price_be_member']").attr('checked'))
-                    var be_mem=1;
-                else
-                    var be_mem='';
-                $submit.attr("submitStatus","false");
-                $submit.text("提    交    中...");
-
-                $("#TB_ajaxContent #subcribe_email").val(email.val());
-                var subscribe_form_data = $('#TB_ajaxContent #subcribe_form').serialize();
-
-                $.getJSON("http://www.juwai.com/index.php",{
-                    c:"collect",
-                    a:"extra_register",
-                    email:email.val(),
-                    phone:phone.val(),
-                    name:name.val(),
-                    reg:be_mem,
-                    property_id:18537167,
-                    TARGET_COUNTRY:'United States',
-                    IS_ENQUIRY:1,
-                    COMMENT:$('#enquiry_from_textarea_price').val(),
-                },function(){
-                    var sub_url = "http://www.juwai.com/?c=collect&a=subscribeEmail";
-                    $.ajax({
-                        type: 'POST',
-                        url: sub_url,
-                        data: subscribe_form_data,
-                        dataType: 'json',
-                    })
-                });
-                var form = $("form#enquiry_price_form");
-                var p_url = 'http://www.juwai.com/?c=collect&a=sale_force_data&url='+form.attr("action");
-                /* if(be_mem==1){
-                    var sub_form = $('#subcribe_form');
-                    $("#subcribe_email").val($("#enquiry_price_email").val());
-                    $("#subcribe_phone").val($("#enquiry_price_phone").val());
-                    $.ajax({
-                        type: 'POST',
-                        url: p_url,
-                        data: sub_form.serialize(),
-                        dataType: 'json',
-                    })
-                } */
-
-                $.ajax({
-                    type: "POST",
-                    url: p_url,
-                    data: form.serialize(),
-                    dataType:"json",
-                    success: function(msg){
-                        $submit.attr("submitStatus","true");
-                        $submit.text("提    交");
-                        if(msg.result==1){
-                            $("#TB_window").hide();
-                            tb_remove();
-                            //tb_show(null,ROOT_PATH+"?c=usermanager&a=confirm&f=true&msg=11&height=395&width=423&modal=true&enquiry=1",false);
-                            //$("#TB_window").css({"border-radius":"4px","border":"0"});
-                            juwaiAlert('感谢您对居外的信任！<br />我们会尽快为您提供该房产的价格！');
-                            update_interaction_num('enquiry');
-                            try{ga('send', 'event', 'Price_Detail_Submit_Success', 'click', {'nonInteraction': 1});}catch(e){}
-                        }else{
-                            alert('submit fail!');
-                            try{ga('send', 'event', 'Price_Detail_Submit_Error', 'click', {'nonInteraction': 1});}catch(e){}
-                        }
-                    },error:function(data){
-                        alert('submit fail!');
-                        try{ga('send', 'event', 'Price_Detail_Submit_Error', 'click', {'nonInteraction': 1});}catch(e){}
-                    }
-                });
-            }
-        }
-    }
-</script>
 
 
             <div id="footer"><div class="o-container o-container--main u-margins--vertical--3" id="country-sitemap">
@@ -2568,32 +2309,10 @@ $( yahooGeo( propertyLocation, showMap, qualityValue ) );
         $(obj).html('<span> </span>'+tip);
     }
 </script>
-<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=686482" src="./美国纽约州纽约1卧2卫特别设计建筑的房产USD 1,650,000_美国房产纽约州纽约房产房价_居外网_files/bds_s_v2.js"></script>
-
-<script type="text/javascript">
-var bds_config = {'bdPic':'http://simages7.juwai.com/auto/360x240/store-aa/a7c1504af8a6d8ad29961ee3513bcd73.jpg'}; document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + new Date().getHours();
-</script>
 
 
-            <script type="text/javascript">
-            $.get('http://www.juwai.com/?c=collect&a=get_footer&type=main&lang=sc&version=446',function(data){
-                $("#footer").html(data);
-                footer_switchable_bind();
-                $('#footer a.statistics_property').click(function(){
-                    return statisticsPropertyClick(this);
-                })
-            });
-        </script>
-        <script type="text/javascript">
-        $( '.c-header__hot-keyword' ).click( function() {
-            var locationInfo = 'hot_keywords_' + ( $( this ).index() + 1 );
-            var hotKeywords = $.trim( $( this ).html() );
-            ga( 'send', 'event', locationInfo, 'click', hotKeywords );
-        })
-    </script>
 
-
-<script type="text/javascript" id="">(function(a,e,f,g,b,c,d){a.GoogleAnalyticsObject=b;a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)};a[b].l=1*new Date;c=e.createElement(f);d=e.getElementsByTagName(f)[0];c.async=1;c.src=g;d.parentNode.insertBefore(c,d)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create","UA-24603463-1","auto");</script><iframe id="google_osd_static_frame_9798355807828" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;" src="./美国纽约州纽约1卧2卫特别设计建筑的房产USD 1,650,000_美国房产纽约州纽约房产房价_居外网_files/saved_resource(7).html"></iframe>
+  <iframe id="google_osd_static_frame_9798355807828" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;" src="./美国纽约州纽约1卧2卫特别设计建筑的房产USD 1,650,000_美国房产纽约州纽约房产房价_居外网_files/saved_resource(7).html"></iframe>
 
 
 
